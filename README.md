@@ -14,7 +14,7 @@ To provide HR leaders with actionable insights into attrition, diversity, job sa
 
 This repository contains the complete **HR Analytics Dashboard** in PDF format:
 
-📥 [Download Full Dashboard (PDF)](./HR Analytics Dashboard.pdf)
+📥 [Download Full Dashboard (PDF)](./HR-Analytics-Dashboard.pdf)
 
 > ⚠️ *Note: The original `.pbix` Power BI file is not included. The PDF contains high-quality visuals and insights extracted from the final dashboard.*
 
