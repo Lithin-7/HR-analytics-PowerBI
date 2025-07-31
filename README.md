@@ -83,12 +83,11 @@ This repository contains the **HR Analytics Dashboard report in PDF format**, sh
 ---
 
 ## 📂 Project Structure
-
+'''
 HR-Analytics-Dashboard/
 ├── HR-Analytics-Dashboard.pdf # Complete report of the dashboard and insights in PDF format
 ├── README.md # This documentation file
-├── assets/ # Optional folder for screenshots or additional visuals (if added)
-
+'''
 ---
 
 ## 🌟 Why This Project Stands Out
